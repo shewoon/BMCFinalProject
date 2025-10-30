@@ -1,0 +1,29 @@
+name: ecommerce_app
+description: A new Flutter project.
+
+# Other metadata...
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^4.2.0
+  # other dependencies...
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_native_splash: ^2.3.0
+
+flutter:
+  uses-material-design: true
+  # other flutter settings...
+
+# 👇 Move this section OUTSIDE the 'flutter:' block
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/image/insta.png
+  android: true
+  ios: true

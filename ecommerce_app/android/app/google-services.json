@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214599607651",
+    "project_id": "my-ecommerce-app-cagata",
+    "storage_bucket": "my-ecommerce-app-cagata.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214599607651:android:2112d23737d738fc34df56",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAedqtZP5Sv6USUc70x1HYZWozKMhL3lcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
